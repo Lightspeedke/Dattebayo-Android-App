@@ -11,7 +11,10 @@ Explore your favorite Naruto characters with a sleek, modern Android app that su
 
 Curious how the app works?  
 
-https://github.com/user-attachments/assets/33bcadbf-2cd6-4501-8783-6b05d6097051
+
+https://github.com/user-attachments/assets/35b76c66-5ae4-497b-99ed-0106630d0622
+
+
 
 ### 📦 Download APK
 
