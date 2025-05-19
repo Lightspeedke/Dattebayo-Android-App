@@ -1,4 +1,5 @@
-![ChatGPT Image May 19, 2025, 12_22_57 PM](https://github.com/user-attachments/assets/2746cb01-cccf-4165-ba76-abaedbb7fd47)
+
+![ChatGPT Image May 19, 2025, 12_22_57 PM](https://github.com/user-attachments/assets/19694537-5a29-4564-9765-bdc3dd4f1f30)
 
 # 🌀 Naruto Character Explorer | Light & Dark Mode
 
@@ -47,13 +48,14 @@ https://github.com/user-attachments/assets/33bcadbf-2cd6-4501-8783-6b05d6097051
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4c7758e2-9dc1-4f94-a9db-1371f02afad0" alt="Light Mode Screenshot" width="300"/>
+      <img src="https://github.com/user-attachments/assets/6f908248-6d35-4b1a-9190-f6244753d3d3" alt="Light Mode Screenshot" width="300"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/0b9f3cde-846f-431b-9fdd-da23a7deae0c" alt="Dark Mode Screenshot" width="300"/>
+      <img src="https://github.com/user-attachments/assets/47b25922-58c3-451e-9ed4-b48792c2bb28" alt="Dark Mode Screenshot" width="300"/>
     </td>
   </tr>
 </table>
+
 
 📝 Authors
 Jeric Ricafrente
